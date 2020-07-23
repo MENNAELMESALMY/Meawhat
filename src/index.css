@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.mycard{
+ animation: appear 1s both;
+}
+
+@keyframes appear {
+    from{
+      opacity: 0;
+    }
+    to{
+      opacity: 1;
+    }
+}
