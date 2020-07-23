@@ -3,12 +3,12 @@ Meawhat
 Simple Frontend React application using external Api to get random cat facts
 and another to get random images
 
-https://github.com/MENNA123MAHMOUD/Meawhat/blob/master/src/HomePage.png
+![home page view](https://github.com/MENNA123MAHMOUD/Meawhat/blob/master/src/HomePage.png)
 
 Link to Apis documents
 
-# `https://alexwohlbruck.github.io/cat-facts/?ref=apilist.fun`
-#`https://docs.thecatapi.com/`
+##### `https://alexwohlbruck.github.io/cat-facts/?ref=apilist.fun`
+##### `https://docs.thecatapi.com/`
 
 In the project directory, you can run:
 
